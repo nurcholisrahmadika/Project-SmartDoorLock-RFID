@@ -54,5 +54,3 @@ Sistem ini digunakan untuk mengontrol akses pintu menggunakan kartu RFID. UID ka
 6. Tombol manual dapat digunakan untuk membuka pintu tanpa kartu  
 
 ---
-
-## Struktur Project
